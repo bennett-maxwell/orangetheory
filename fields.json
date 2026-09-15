@@ -1,855 +1,1166 @@
 {
- "slug": "orangetheory",
- "brand": "Orangetheory Fitness",
- "field_count": 130,
- "franchiseFee": 59950,
- "totalInvestmentMin": 764577,
- "totalInvestmentMax": 1104920,
- "royaltyPercent": "8%",
- "adFee": "3%",
- "totalUnits": 1224,
- "openLocations": 1224,
- "corporateCity": "Boca Raton",
- "corporateState": "FL",
- "corporateZip": "33487",
- "corporateAddress": "6000 Broken Sound Parkway NW, Suite 200, Boca Raton, FL 33487",
- "description": "Orangetheory Fitness is a health and fitness studio franchise headquartered in Boca Raton, Florida. The franchisor, OTF Franchisor, LLC, is a Delaware limited liability company formed in December 2018 and an indirect subsidiary of Purpose Brands Holdings, LLC since April 2024; the Orangetheory concept has been franchised since 2010 through its predecessor. Studios offer members access to cardio and strength equipment in the brand's signature orange-themed trade dress. Per the FDD issued March 31, 2026, the franchise fee is $59,950, total initial investment ranges from $764,577 to $1,104,920, royalties are 8% of gross sales plus a 3% brand fund contribution (risable to 5%), and territories are non-exclusive. Item 19 reports average gross sales of $802,145 across 1,189 franchised studios for the 12 months ended February 28, 2026. The system totaled 1,224 studios at the end of 2025 (1,209 franchised + 15 affiliate-owned), down from 1,333 at the end of 2023.",
- "category": "Health & Fitness",
- "websiteUrl": "https://www.orangetheory.com",
- "yearFounded": 2010,
- "fddYear": 2026,
- "territoryDescription": "Non-exclusive. The Franchise Agreement designates a protected Territory: as long as you are in compliance, the franchisor and affiliates will not operate or authorize Studios identified by the Marks with premises inside your Territory, except Limited Access Locations (hotels, hospitals, universities, military bases, offices, condos/dorms, private clubs). The franchisor reserves broad rights: studios under other names inside the Territory, studios under the Marks outside the Territory, other concepts anywhere, and acquiring/converting other businesses anywhere. Minimum performance standards: $300,000 (Year 1), $350,000 (Year 2), $400,000 (Year 3+) gross sales, with royalty true-up and possible territory reduction or termination after two consecutive misses.",
- "item12": "non-exclusive",
- "item20PinCount": 15,
- "item20_fdd_count": 1224,
- "item20_reconciliation": "FDD Item 20 Table No. 1 (p.60): 1,224 studios as of 12/31/2025 (1,209 franchised + 15 affiliate-owned). The 15 pins below are FEATURED locations \u2014 the franchisor HQ plus real current franchisee studios from the FDD Exhibit H-1 List of Current Franchisees \u2014 not a complete map of all outlets.",
- "hq_source": "FDD Item 1, p.1",
- "risk_score": 60,
- "risk_score_method": "base 20 +8 system contraction +8 high closure/exit volume +10 capital intensity +8 ongoing fee burden +2 technology fee escalation +6 non-exclusive territory with reserved conversion rights +5 minimum performance standards -8 Item 19 strength -2 audited financials -3 Purpose Brands backing +4 disclosed litigation +2 Item 4 bankruptcy history = 60/100",
- "pins": [
-  {
-   "label": "Boca Raton, FL",
-   "city": "Boca Raton",
-   "state": "FL",
-   "zip": "33487",
-   "latitude": 26.3586885,
-   "longitude": -80.0830984,
-   "geocode_display": "Boca Raton, Palm Beach County, Florida, United States",
-   "pin_source": "FDD Item 1 (HQ, p.1)"
-  },
-  {
-   "label": "Auburn, AL",
-   "city": "Auburn",
-   "state": "AL",
-   "zip": "36830",
-   "latitude": 32.6098566,
-   "longitude": -85.4807825,
-   "geocode_display": "Auburn, Lee County, Alabama, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 36830)"
-  },
-  {
-   "label": "Chandler, AZ",
-   "city": "Chandler",
-   "state": "AZ",
-   "zip": "85249",
-   "latitude": 33.3062031,
-   "longitude": -111.841185,
-   "geocode_display": "Chandler, Maricopa County, Arizona, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 85249)"
-  },
-  {
-   "label": "Alameda, CA",
-   "city": "Alameda",
-   "state": "CA",
-   "zip": "94501",
-   "latitude": 37.7652076,
-   "longitude": -122.241635,
-   "geocode_display": "Alameda, Alameda County, California, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 94501)"
-  },
-  {
-   "label": "Arvada, CO",
-   "city": "Arvada",
-   "state": "CO",
-   "zip": "80003",
-   "latitude": 39.8005505,
-   "longitude": -105.0811573,
-   "geocode_display": "Arvada, Jefferson County, Colorado, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 80003)"
-  },
-  {
-   "label": "Avon, CT",
-   "city": "Avon",
-   "state": "CT",
-   "zip": "06001",
-   "latitude": 41.8098209,
-   "longitude": -72.8306541,
-   "geocode_display": "Avon, Capitol Planning Region, Connecticut, 06001, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 06001)"
-  },
-  {
-   "label": "Gainesville, FL",
-   "city": "Gainesville",
-   "state": "FL",
-   "zip": "32605",
-   "latitude": 29.6519684,
-   "longitude": -82.3249846,
-   "geocode_display": "Gainesville, Alachua County, Florida, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 32605)"
-  },
-  {
-   "label": "Acworth, GA",
-   "city": "Acworth",
-   "state": "GA",
-   "zip": "30101",
-   "latitude": 34.0659329,
-   "longitude": -84.6768796,
-   "geocode_display": "Acworth, Cobb County, Georgia, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 30101)"
-  },
-  {
-   "label": "Algonquin, IL",
-   "city": "Algonquin",
-   "state": "IL",
-   "zip": "60102",
-   "latitude": 42.1655801,
-   "longitude": -88.2942493,
-   "geocode_display": "Algonquin, McHenry County, Illinois, 60102, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 60102)"
-  },
-  {
-   "label": "Akron, OH",
-   "city": "Akron",
-   "state": "OH",
-   "zip": "44313",
-   "latitude": 41.083064,
-   "longitude": -81.518485,
-   "geocode_display": "Akron, Summit County, Ohio, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 44313)"
-  },
-  {
-   "label": "Allen, TX",
-   "city": "Allen",
-   "state": "TX",
-   "zip": "75013",
-   "latitude": 33.1031744,
-   "longitude": -96.6705503,
-   "geocode_display": "Allen, Collin County, Texas, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 75013)"
-  },
-  {
-   "label": "Alexandria, VA",
-   "city": "Alexandria",
-   "state": "VA",
-   "zip": "22315",
-   "latitude": 38.8051095,
-   "longitude": -77.0470229,
-   "geocode_display": "Alexandria, Virginia, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 22315)"
-  },
-  {
-   "label": "Auburn, WA",
-   "city": "Auburn",
-   "state": "WA",
-   "zip": "98092",
-   "latitude": 47.3075369,
-   "longitude": -122.2301808,
-   "geocode_display": "Auburn, King County, Washington, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 98092)"
-  },
-  {
-   "label": "Appleton, WI",
-   "city": "Appleton",
-   "state": "WI",
-   "zip": "54913",
-   "latitude": 44.2613967,
-   "longitude": -88.4069744,
-   "geocode_display": "Appleton, Outagamie County, Wisconsin, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 54913)"
-  },
-  {
-   "label": "Omaha, NE",
-   "city": "Omaha",
-   "state": "NE",
-   "zip": "68102",
-   "latitude": 41.2587459,
-   "longitude": -95.9383758,
-   "geocode_display": "Omaha, Douglas County, Nebraska, United States",
-   "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 68102)"
-  }
- ],
- "breakdown": {
-  "absolute_cited": 113,
-  "theoretical": 9,
-  "matching": 8,
-  "total": 130
- },
- "fields": {
-  "franchisor_legal_name": {
-   "value": "OTF Franchisor, LLC",
-   "type": "absolute",
-   "item": "FDD cover + Item 1, p.1"
-  },
-  "franchisor_entity_type": {
-   "value": "Delaware limited liability company",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "franchisor_formed_date": {
-   "value": "2018-12-10",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "corporate_address": {
-   "value": "6000 Broken Sound Parkway NW, Suite 200, Boca Raton, FL 33487",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "corporate_phone": {
-   "value": "(954) 530-6903",
-   "type": "absolute",
-   "item": "FDD cover, p.1"
-  },
-  "corporate_email": {
-   "value": "info@orangetheory.com",
-   "type": "absolute",
-   "item": "FDD cover, p.1"
-  },
-  "corporate_city": {
-   "value": "Boca Raton",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "corporate_state": {
-   "value": "FL",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "corporate_zip": {
-   "value": "33487",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "dba_name": {
-   "value": "Orangetheory Fitness",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 trade/service marks ORANGETHEORY, OT FIT, OTF"
-  },
-  "trademarks": {
-   "value": "ORANGETHEORY, OT FIT, OTF and related marks listed in Item 13",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "parent_chain": {
-   "value": "OTF Franchisor, LLC -> SEB Systems LLC -> SEB Funding LLC -> SEB SPV Guarantor LLC -> Anytime Fitness, LLC -> Self Esteem Brands, LLC -> Purpose Brands Intermediate, LLC -> Purpose Brands Holdings, LLC (Parent, jointly owned by Anytime Worldwide, LLC and Ultimate Fitness Holdings, LLC); indirect wholly-owned subsidiary of Purpose Brands Holdings, LLC since 2024-04-02",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "predecessor_ufr": {
-   "value": "Ultimate Fitness Group, LLC (Delaware) \u2014 offered/sold Studio franchises July 2010 to March 2019; manager/sub-manager under management agreement; OTF Royalties, LLC merged into OTF Franchisor, LLC on 2019-12-31",
-   "type": "absolute",
-   "item": "FDD Item 1, pp.1-2"
-  },
-  "affiliate_sourcing": {
-   "value": "OTF Product Sourcing, LLC \u2014 approved supplier for fitness equipment, OTbeat heart rate monitoring system, OT Connect tablets/displays, retail merchandise",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2"
-  },
-  "affiliate_studios": {
-   "value": "OTF Studios, LLC and OTF Property Holdings, LLC own/operate 15 Affiliate-Owned Studios as of 12/31/2025",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2 + Item 20, p.66"
-  },
-  "affiliate_fitness_brands": {
-   "value": "Anytime Fitness Franchisor, LLC (2,271 franchised + 11 company locations as of 12/31/2025) and other franchise programs became affiliates 2024-04-02 via the Purpose Brands transaction",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2"
-  },
-  "franchisor_formed_year": {
-   "value": 2018,
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "brand_origin_year": {
-   "value": 2010,
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 predecessor UFG began offering Studio franchises July 2010"
-  },
-  "year_franchising_began": {
-   "value": 2019,
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 began offering unit franchises March 2019; area development franchises April 2025"
-  },
-  "business_description": {
-   "value": "Health and fitness studios offering members access to cardio and strength equipment in a simple, contemporary atmosphere with the signature orange color scheme and trade dress, under the ORANGETHEORY trademarks (a 'Studio')",
-   "type": "absolute",
-   "item": "FDD cover, p.1"
-  },
-  "operates_studios_directly": {
-   "value": "No \u2014 franchisor does not operate any Studios; affiliates operate 15 Affiliate-Owned Studios",
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "fdd_issue_date": {
-   "value": "2026-03-31",
-   "type": "absolute",
-   "item": "FDD cover page, p.1"
-  },
-  "ceo_name": {
-   "value": "Thomas Leverton",
-   "type": "absolute",
-   "item": "FDD Item 2, p.6 \u2014 CEO of parent companies Purpose Brands Holdings, LLC and Purpose Brands Intermediate, LLC since November 2024"
-  },
-  "manager_founder": {
-   "value": "David Long \u2014 co-founder of the ORANGETHEORY concept; Manager since March 2019",
-   "type": "absolute",
-   "item": "FDD Item 2, p.6"
-  },
-  "brand_president": {
-   "value": "Lauren Cody \u2014 Brand President since January 2025",
-   "type": "absolute",
-   "item": "FDD Item 2, p.6"
-  },
-  "litigation_disclosed_count": {
-   "value": 1,
-   "type": "absolute",
-   "item": "FDD Item 3, p.8"
-  },
-  "litigation_1": {
-   "value": "Rpash, Inc., David Regelean, and Tammie Regelean v. Ultimate Fitness Group, LLC and Dan Adelstein, Case No. 01-16-0000-3280 (American Arbitration Association, filed January 28, 2016) \u2014 franchisee claimants alleged they accepted a Mesquite, Texas location based on alleged representations by UFG about territory demographics",
-   "type": "absolute",
-   "item": "FDD Item 3, p.8"
-  },
-  "bankruptcy_disclosed": {
-   "value": "Thomas Leverton (CEO of parent companies) was CEO of CEC Entertainment, Inc. (Chuck E. Cheese parent) July 2014 to February 2020; CEC and debtor affiliates filed Chapter 11 on or about June 24, 2020 (Case No. 20-33163, S.D. Tex.), approximately 4 months after he left; plan confirmed December 15, 2020; discharge December 30, 2020",
-   "type": "absolute",
-   "item": "FDD Item 4, p.9"
-  },
-  "initial_franchise_fee": {
-   "value": 59950,
-   "type": "absolute",
-   "item": "FDD Item 5, p.9"
-  },
-  "franchise_fee_refundable": {
-   "value": "No \u2014 not refundable; franchisor may decrease it case-by-case or via marketing promotion or area development pricing",
-   "type": "absolute",
-   "item": "FDD Item 5, pp.9-10"
-  },
-  "area_development_fee_3": {
-   "value": 150000,
-   "type": "absolute",
-   "item": "FDD Item 5, p.9 \u2014 new franchisee, 3 Studios"
-  },
-  "area_development_fee_5": {
-   "value": 237500,
-   "type": "absolute",
-   "item": "FDD Item 5, p.9 \u2014 new franchisee, 5 Studios"
-  },
-  "technology_setup_fee": {
-   "value": 575,
-   "type": "absolute",
-   "item": "FDD Item 5, p.10 \u2014 initial non-refundable Management Software account setup"
-  },
-  "technology_monthly_fee": {
-   "value": 899,
-   "type": "absolute",
-   "item": "FDD Item 5, p.10 \u2014 currently $899/month, subject to annual increase of 10% compounded"
-  },
-  "equipment_otbeat_range": {
-   "value": "114323 to 158624 \u2014 fitness equipment, OTbeat heart rate monitoring system, OT Connect tablets/displays for a 1,750 to 4,800 sq ft Studio",
-   "type": "absolute",
-   "item": "FDD Item 5, p.10"
-  },
-  "retail_merchandise_initial": {
-   "value": "3315 to 5850 \u2014 initial inventory of ORANGETHEORY retail merchandise",
-   "type": "absolute",
-   "item": "FDD Item 5, p.10"
-  },
-  "studio_launch_training_fee": {
-   "value": "No cost if provided by an area representative; up to 5000 for franchisor employee travel/lodging; 1000 per additional trainee per session beyond 8 fitness coaches + 4 sales associates",
-   "type": "absolute",
-   "item": "FDD Item 5, p.11"
-  },
-  "presales_launch_training_fee": {
-   "value": 2500,
-   "type": "absolute",
-   "item": "FDD Item 5, p.11 \u2014 if provided by franchisor; no cost if provided by an area representative"
-  },
-  "amount_to_franchisor_range": {
-   "value": "182658 to 237994 \u2014 total investment that must be paid to the franchisor or an affiliate",
-   "type": "absolute",
-   "item": "FDD cover, p.1"
-  },
-  "royalty_terms": {
-   "value": "8% of Gross Sales, payable weekly; franchisor debits franchisee bank account",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "brand_fund_fee": {
-   "value": "Currently 3% of Gross Sales, payable monthly; may be increased up to 5% of Gross Sales",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "local_advertising_minimum": {
-   "value": "Greater of 2% of the Studio's Gross Sales from the prior month or $2,500 per month; deficiency may be required to be contributed to the Brand Fund",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "ad_coop": {
-   "value": "Cooperative advertising as determined by the Co-op if formed; no minimum or maximum contribution; counts toward local advertising spend",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "successor_franchise_fee": {
-   "value": "50% of the then-current initial franchise fee for new franchisees",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "transfer_fee_control": {
-   "value": "50% of then-current initial franchise fee for a Control Transfer",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "transfer_fee_other": {
-   "value": "25% of then-current initial franchise fee for other transfers (other than to an entity formed to operate the Studio)",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "late_fee_interest": {
-   "value": "Lesser of 18% per annum or the highest rate permitted by law, plus $100 per week (or portion) that payment or report is overdue",
-   "type": "absolute",
-   "item": "FDD Item 6, p.12"
-  },
-  "conference_fees": {
-   "value": "600 to 1500 per person per event; Convention expected less than $1,000 per person in 2025; training summit expected less than $600 per person in 2025",
-   "type": "absolute",
-   "item": "FDD Item 6, p.13"
-  },
-  "investment_min": {
-   "value": 764577,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17 \u2014 total excluding real estate purchase costs"
-  },
-  "investment_max": {
-   "value": 1104920,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17 \u2014 total excluding real estate purchase costs"
-  },
-  "rent_3mo_security_low": {
-   "value": 21492,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "rent_3mo_security_high": {
-   "value": 57312,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "leasehold_construction_low": {
-   "value": 245000,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "leasehold_construction_high": {
-   "value": 418317,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "fitness_equipment_low": {
-   "value": 119122,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17 \u2014 including installation and OTbeat System"
-  },
-  "fitness_equipment_high": {
-   "value": 163424,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17 \u2014 including installation and OTbeat System"
-  },
-  "technology_system_low": {
-   "value": 46760,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "technology_system_high": {
-   "value": 62108,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "presale_advertising_low": {
-   "value": 36000,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "presale_advertising_high": {
-   "value": 45000,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17"
-  },
-  "additional_funds_3mo": {
-   "value": 171239,
-   "type": "absolute",
-   "item": "FDD Item 7, p.17 \u2014 3 months after Studio opens"
-  },
-  "typical_sqft": {
-   "value": "3,100 (range 1,750 to 4,800)",
-   "type": "absolute",
-   "item": "FDD Item 7 note 2, p.17"
-  },
-  "required_purchases": {
-   "value": "Must purchase from affiliate OTF Sourcing: fitness equipment, OTbeat heart rate monitoring system and initial monitor/strap inventory, OT Connect tablets/displays, initial retail merchandise inventory; IT services/equipment from PV Distribution LLC (ProVision)",
-   "type": "absolute",
-   "item": "FDD Items 1, 5, 8, pp.2/10/20"
-  },
-  "financing_offered": {
-   "value": "No direct or indirect financing and no guarantees; arrangements exist with third-party equipment lenders \u2014 franchisor does not participate in underwriting or lending decisions",
-   "type": "absolute",
-   "item": "FDD Item 10, p.25"
-  },
-  "initial_training_duration": {
-   "value": "Four days \u2014 Initial Training Program, held quarterly at HQ in Boca Raton, Florida with some portions online via Orange University; up to three trainees at no charge",
-   "type": "absolute",
-   "item": "FDD Item 11, p.33 (printed)"
-  },
-  "studio_launch_training": {
-   "value": "Studio Launch Training for up to eight fitness coaches and four sales associates (sales/operations and fitness programs)",
-   "type": "absolute",
-   "item": "FDD Item 5, p.11"
-  },
-  "ongoing_brand_fund": {
-   "value": "Brand Fund contributions (currently 3% of Gross Sales) fund advertising, marketing, operations support, and the technology platform",
-   "type": "absolute",
-   "item": "FDD Items 6, 11, pp.12/25"
-  },
-  "territory_exclusive": {
-   "value": "No \u2014 'You will not receive an exclusive territory under either the Area Development Agreement or the Franchise Agreement.' The Franchise Agreement designates a 'Territory' (protected): as long as you are in compliance, the franchisor and affiliates will not operate or authorize Studios identified by the Marks with premises inside your Territory, except Limited Access Locations (hotels, hospitals, universities, military bases, offices, condos/dorms, private clubs, etc.)",
-   "type": "absolute",
-   "item": "FDD Item 12, pp.43-44"
-  },
-  "territory_size": {
-   "value": "No minimum geographic or population size specified; determined by population, traffic flow, businesses, competitors, demographics; defined by boundaries/streets and inserted with a map in Schedule 1 to Appendix A",
-   "type": "absolute",
-   "item": "FDD Item 12, p.44"
-  },
-  "minimum_performance_standards": {
-   "value": "Year 1: $300,000 gross sales; Year 2: $350,000; Year 3+: $400,000 (non-cumulative). Shortfall in a year: pay the difference between Royalties actually paid and Royalties that would have been paid at the standard, plus an approved business plan. Two consecutive years missed: franchisor may reduce/eliminate Territory, terminate, or exercise other remedies",
-   "type": "absolute",
-   "item": "FDD Item 12, p.44"
-  },
-  "franchisor_reserved_rights": {
-   "value": "Franchisor/affiliates reserve: operate/license studios under the Marks outside the Territory or under other names anywhere (incl. inside the Territory); develop other concepts anywhere; acquire/merge with other businesses anywhere and convert them to the ORANGETHEORY brand even inside the Territory",
-   "type": "absolute",
-   "item": "FDD Item 12, p.44"
-  },
-  "territory_relocation": {
-   "value": "Studio must operate only at the accepted location; no relocation without prior written consent and conditions",
-   "type": "absolute",
-   "item": "FDD Item 12, p.43"
-  },
-  "site_selection_deadline": {
-   "value": "Must select and secure an accepted site within the non-exclusive Site Selection Area within four months of the Franchise Agreement effective date",
-   "type": "absolute",
-   "item": "FDD Item 12, p.43"
-  },
-  "trademark_rights": {
-   "value": "Right to operate under the Marks (ORANGETHEORY, OT FIT, OTF and related) per the franchise agreement",
-   "type": "absolute",
-   "item": "FDD Item 13, p.47"
-  },
-  "owner_operator_required": {
-   "value": "Not required \u2014 personal supervision by you or your Principal Owner is recommended, not required; must designate a full-time on-premises manager who has completed management training",
-   "type": "absolute",
-   "item": "FDD Item 15, p.50"
-  },
-  "sell_restrictions": {
-   "value": "Must offer the products/services the franchisor specifies for the Studio; system standards govern",
-   "type": "absolute",
-   "item": "FDD Item 16, p.51"
-  },
-  "franchise_term_years": {
-   "value": 10,
-   "type": "absolute",
-   "item": "FDD Item 17, p.53 \u2014 10 years from the effective date (parties may mutually agree up to 11 years to align with lease term)"
-  },
-  "renewal_terms": {
-   "value": "Successor franchise available: sign the then-current franchise agreement and meet its terms; successor franchise fee = 50% of then-current initial franchise fee",
-   "type": "absolute",
-   "item": "FDD Items 6, 17, pp.12/53"
-  },
-  "dispute_resolution": {
-   "value": "Arbitration \u2014 American Arbitration Association; proceedings held exclusively in the county specified (franchise agreement Section 21(a))",
-   "type": "absolute",
-   "item": "FDD Item 17, p.56"
-  },
-  "public_figures": {
-   "value": "None \u2014 franchisor does not use any public figures to promote the franchise",
-   "type": "absolute",
-   "item": "FDD Item 18, p.57"
-  },
-  "item19_measurement_period": {
-   "value": "12-month period ended February 28, 2026",
-   "type": "absolute",
-   "item": "FDD Item 19, p.57"
-  },
-  "item19_system_studios": {
-   "value": 1201,
-   "type": "absolute",
-   "item": "FDD Item 19, p.57 \u2014 franchised Studios in the system as of 2/28/2026 (excludes 95 permanently closed during the Relevant Time Period; all closed studios were open at least 12 months before closing)"
-  },
-  "item19_reporting_studios": {
-   "value": 1189,
-   "type": "absolute",
-   "item": "FDD Item 19, p.57 \u2014 franchised Studios open and operating for the Relevant Time Period (includes 2 temporarily closed in 2025 due to storm damage)"
-  },
-  "item19_avg_gross_sales": {
-   "value": 802145,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_median_gross_sales": {
-   "value": 750643,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_high_gross_sales": {
-   "value": 2870191,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_low_gross_sales": {
-   "value": 156118,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_pct_met_avg_sales": {
-   "value": "518 of 1,189 (approx. 44%) met or exceeded the average Total Gross Sales",
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_top_quartile_avg": {
-   "value": 1205826,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_4th_quartile_avg": {
-   "value": 475979,
-   "type": "absolute",
-   "item": "FDD Item 19, p.58"
-  },
-  "item19_avg_member_count": {
-   "value": 444,
-   "type": "absolute",
-   "item": "FDD Item 19, p.59 \u2014 average monthly member count"
-  },
-  "item19_median_member_count": {
-   "value": 425,
-   "type": "absolute",
-   "item": "FDD Item 19, p.59"
-  },
-  "item19_high_member_count": {
-   "value": 1390,
-   "type": "absolute",
-   "item": "FDD Item 19, p.59"
-  },
-  "item19_low_member_count": {
-   "value": 105,
-   "type": "absolute",
-   "item": "FDD Item 19, p.59"
-  },
-  "item19_pct_at_avg_members": {
-   "value": "526 of 1,189 (approx. 44%) at or above average monthly member count",
-   "type": "absolute",
-   "item": "FDD Item 19, p.59"
-  },
-  "item19_profit_data": {
-   "value": "Item 19 does NOT include cost of sales, operating expenses, net income, or profit \u2014 gross sales and member counts only; the FDD states the information does not reflect costs that must be deducted to calculate net income",
-   "type": "absolute",
-   "item": "FDD Item 19, p.59"
-  },
-  "item20_total_2025": {
-   "value": 1224,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60 \u2014 Table No. 1: 1,209 franchised + 15 affiliate-owned as of 12/31/2025"
-  },
-  "item20_franchised_2025": {
-   "value": 1209,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_affiliate_owned_2025": {
-   "value": 15,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_total_2023_end": {
-   "value": 1333,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_total_2024_end": {
-   "value": 1298,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_net_change_2025": {
-   "value": -74,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60 \u2014 total studios 1,298 -> 1,224"
-  },
-  "item20_net_change_2024": {
-   "value": -35,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_net_change_2023": {
-   "value": 31,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60"
-  },
-  "item20_franchised_change_2025": {
-   "value": -74,
-   "type": "absolute",
-   "item": "FDD Item 20, p.60 \u2014 franchised 1,283 -> 1,209"
-  },
-  "item20_projected_2026": {
-   "value": 85,
-   "type": "absolute",
-   "item": "FDD Item 20, p.66 \u2014 85 franchise agreements signed but studios not open; 15 projected new franchised studios in fiscal 2026"
-  },
-  "item20_left_system_list": {
-   "value": 362,
-   "type": "absolute",
-   "item": "FDD Item 20, p.67 \u2014 362 franchisees on the Exhibit H-2 left-the-system list"
-  },
-  "item20_schedule_entries_parsed": {
-   "value": 1010,
-   "type": "absolute",
-   "item": "FDD Exhibit H-1 (List of Current Franchisees) \u2014 unique city/state rows parsed from the studio list (some multi-line rows not captured)"
-  },
-  "financial_statements": {
-   "value": "Audited financial statements of affiliate SEB Franchising attached at Exhibit D",
-   "type": "absolute",
-   "item": "FDD Item 21, p.68"
-  },
-  "netWorthRequirement": {
-   "value": "not disclosed in FDD",
-   "type": "absolute",
-   "item": "FDD \u2014 grep over source FDD text for 'net worth' returns 1 hit (Exhibit D note about the Company's own franchise capital accounts/liquidity requirements); no minimum net worth is required of franchisees anywhere in the FDD"
-  },
-  "netWorthRequirementNote": {
-   "value": "The single 'net worth' hit describes the franchisor-side capital account for franchisor liquidity/net-worth requirements, not a franchisee requirement; grep for 'minimum net worth' / 'net worth of $' / 'net worth of at least' = 0 hits",
-   "type": "absolute",
-   "item": "grep proof over fdd.txt"
-  },
-  "liquidCapitalRequirement": {
-   "value": "not disclosed in FDD",
-   "type": "absolute",
-   "item": "FDD \u2014 grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated anywhere in the FDD"
-  },
-  "liquidCapitalRequirementNote": {
-   "value": "No liquid-capital requirement appears anywhere in the disclosure document",
-   "type": "absolute",
-   "item": "grep proof: 'liquid capital'/'liquid assets' x0 hits"
-  },
-  "risk_score": {
-   "value": 60,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: base 20 +8 system contraction (1,333 total studios at end-2023 -> 1,224 at end-2025; franchised 1,311 -> 1,209, net -102) +8 high closure/exit volume (95 permanent closures in Item 19 period; 362 franchisees on the H-2 left-the-system list) +10 capital intensity (investment ceiling $1,104,920) +8 ongoing fee burden (royalty 8% + brand fund 3% rising to 5% + local ad minimum 2% or $2,500/mo = 13-15% of gross sales) +2 technology fee $899/mo with 10% compounded annual increases +6 non-exclusive territory with franchisor reserved rights (other-name studios inside Territory, acquired-business conversion) +5 minimum performance standards ($300K/$350K/$400K with royalty true-up; two consecutive misses can trigger territory reduction or termination) +4 disclosed litigation (1 franchisee AAA matter, Item 3) +2 Item 4 bankruptcy history (parent CEO's prior company CEC Chapter 11 in 2020) -8 Item 19 strength (1,189 studios, avg gross sales $802,145, 44% met/exceeded average, avg 444 members) -2 audited financials attached (Exhibit D) -3 Purpose Brands/SEB parent platform backing = 60/100"
-  },
-  "fee_burden_ratio_pct": {
-   "value": 7.8,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: initial franchise fee $59,950 / Item 7 minimum investment $764,577 = 7.84%"
-  },
-  "ongoing_fee_burden_pct": {
-   "value": 13,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: royalty 8% + brand fund 3% (risable to 5%) + local advertising minimum 2% = 13% of gross sales (15% if brand fund raised to 5%)"
-  },
-  "payback_period_years": {
-   "value": "not computable from FDD \u2014 Item 19 reports gross sales only, no profit figures",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: Item 19 contains no net income or profit data; any payback estimate would be invented"
-  },
-  "unit_change_2023_2025_pct": {
-   "value": -8.2,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: (1,224 - 1,333) / 1,333 = -8.18% total studios from end-2023 to end-2025 (Item 20 Table No. 1)"
-  },
-  "support_score_estimate": {
-   "value": 6,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: scale 1-10: quarterly 4-day initial training at HQ, studio launch + presales training, Brand Fund marketing, management agreement support via UFG/AFLLC; capped by non-exclusive territory, no financing, and mandatory performance standards; labeled estimate"
-  },
-  "litigation_risk_flag": {
-   "value": "LOW-MODERATE",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: 1 disclosed 2016 franchisee AAA arbitration matter; no current franchisee-vs-franchisor litigation disclosed"
-  },
-  "item19_confidence": {
-   "value": "STRONG",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: n=1,189 franchised studios open the full 12-month period ended 2/28/2026, reporting average/median/high/low for total gross sales and monthly member counts; no profit data disclosed"
-  },
-  "saturation_index": {
-   "value": "elevated exits",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: system contracting (-8.2% since 2023), 95 permanent closures in the Item 19 period, 362 franchisees left the system in FY2025; protected territories with franchisor-reserved conversion rights; labeled estimate"
-  },
-  "match_capital_min": {
-   "value": 764577,
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 7 low-end investment"
-  },
-  "match_capital_target": {
-   "value": 934748,
-   "type": "matching",
-   "item": "MATCHING \u2014 method: midpoint of Item 7 range ($764,577-$1,104,920), labeled midpoint"
-  },
-  "match_experience": {
-   "value": "No prior fitness experience required; owner supervision recommended not required; full-time trained on-premises manager required",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 15, p.50"
-  },
-  "match_operational": {
-   "value": "Semi-absentee-capable: owner need not personally supervise; a full-time trained on-premises manager must run the Studio",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 15, p.50"
-  },
-  "match_lifestyle": {
-   "value": "Manager-run model possible \u2014 owner personal supervision recommended, not required",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 15, p.50"
-  },
-  "match_risk_appetite": {
-   "value": "Moderate-high: 13-15% ongoing fee burden, $765K+ capital, system contracting, minimum performance standards with royalty true-up",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: risk inputs: Items 3, 6, 7, 12, 20"
-  },
-  "match_location": {
-   "value": "US, typically 3,100 sq ft (1,750-4,800); site selected and secured within 4 months of signing, franchisor acceptance required",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 7 note 2 + Item 12"
-  },
-  "match_timeline": {
-   "value": "Site selected and secured within 4 months of the Franchise Agreement effective date",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 12, p.43"
-  }
- },
- "extractor": "orangetheory-build (MapKI next-20 wave, wave 2, 2026-09-14)",
- "extraction_timestamp_utc": "2026-09-14T17:39:53.822535+00:00",
- "fdd_filename": "orangetheory.pdf",
- "fdd_sha256": "205404c271f7065e59a74a6daeac19b73e5a18d89f2ec60b98f6f493310a95cf",
- "live_url": "https://bennett-maxwell.github.io/orangetheory/",
- "netWorthRequirement": "not disclosed in FDD",
- "netWorthRequirementNote": "grep over source FDD text for 'net worth' returns 1 hit (Exhibit D note about the Company's own franchise capital accounts), 'minimum net worth' / 'net worth of $' = 0 hits; no franchisee minimum net worth is stated in the FDD",
- "liquidCapitalRequirement": "not disclosed in FDD",
- "liquidCapitalRequirementNote": "grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated in the FDD",
- "pinVerification": {
-  "method": "D4-08 per-pin geocode re-run (independent forward geocode of each labeled city/state; haversine vs plotted coordinate, 50 km tolerance)",
-  "run_utc": "2026-09-14T17:39:51.034870+00:00",
-  "passed": 15,
-  "total": 15
- },
- "pinsUpdatedAt": "2026-09-14T17:39:51.034870+00:00"
+  "slug": "orangetheory",
+  "brand": "Orangetheory Fitness",
+  "field_count": 130,
+  "franchiseFee": 59950,
+  "totalInvestmentMin": 764577,
+  "totalInvestmentMax": 1104920,
+  "royaltyPercent": "8%",
+  "adFee": "3%",
+  "totalUnits": 1224,
+  "openLocations": 1224,
+  "corporateCity": "Boca Raton",
+  "corporateState": "FL",
+  "corporateZip": "33487",
+  "corporateAddress": "6000 Broken Sound Parkway NW, Suite 200, Boca Raton, FL 33487",
+  "description": "Orangetheory Fitness is a health and fitness studio franchise headquartered in Boca Raton, Florida. The franchisor, OTF Franchisor, LLC, is a Delaware limited liability company formed in December 2018 and an indirect subsidiary of Purpose Brands Holdings, LLC since April 2024; the Orangetheory concept has been franchised since 2010 through its predecessor. Studios offer members access to cardio and strength equipment in the brand's signature orange-themed trade dress. Per the FDD issued March 31, 2026, the franchise fee is $59,950, total initial investment ranges from $764,577 to $1,104,920, royalties are 8% of gross sales plus a 3% brand fund contribution (risable to 5%), and territories are non-exclusive. Item 19 reports average gross sales of $802,145 across 1,189 franchised studios for the 12 months ended February 28, 2026. The system totaled 1,224 studios at the end of 2025 (1,209 franchised + 15 affiliate-owned), down from 1,333 at the end of 2023.",
+  "category": "Health & Fitness",
+  "websiteUrl": "https://www.orangetheory.com",
+  "yearFounded": 2010,
+  "fddYear": 2026,
+  "territoryDescription": "Non-exclusive. The Franchise Agreement designates a protected Territory: as long as you are in compliance, the franchisor and affiliates will not operate or authorize Studios identified by the Marks with premises inside your Territory, except Limited Access Locations (hotels, hospitals, universities, military bases, offices, condos/dorms, private clubs). The franchisor reserves broad rights: studios under other names inside the Territory, studios under the Marks outside the Territory, other concepts anywhere, and acquiring/converting other businesses anywhere. Minimum performance standards: $300,000 (Year 1), $350,000 (Year 2), $400,000 (Year 3+) gross sales, with royalty true-up and possible territory reduction or termination after two consecutive misses.",
+  "item12": "non-exclusive",
+  "item20PinCount": 15,
+  "item20_fdd_count": 1224,
+  "item20_reconciliation": "FDD Item 20 Table No. 1 (p.60): 1,224 studios as of 12/31/2025 (1,209 franchised + 15 affiliate-owned). The 15 pins below are FEATURED locations \u2014 the franchisor HQ plus real current franchisee studios from the FDD Exhibit H-1 List of Current Franchisees \u2014 not a complete map of all outlets.",
+  "hq_source": "FDD Item 1, p.1",
+  "risk_score": 60,
+  "risk_score_method": "base 20 +8 system contraction +8 high closure/exit volume +10 capital intensity +8 ongoing fee burden +2 technology fee escalation +6 non-exclusive territory with reserved conversion rights +5 minimum performance standards -8 Item 19 strength -2 audited financials -3 Purpose Brands backing +4 disclosed litigation +2 Item 4 bankruptcy history = 60/100",
+  "pins": [
+    {
+      "label": "Boca Raton, FL",
+      "city": "Boca Raton",
+      "state": "FL",
+      "zip": "33487",
+      "latitude": 26.3586885,
+      "longitude": -80.0830984,
+      "geocode_display": "Boca Raton, Palm Beach County, Florida, United States",
+      "pin_source": "FDD Item 1 (HQ, p.1)"
+    },
+    {
+      "label": "Auburn, AL",
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "36830",
+      "latitude": 32.6098566,
+      "longitude": -85.4807825,
+      "geocode_display": "Auburn, Lee County, Alabama, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 36830)"
+    },
+    {
+      "label": "Chandler, AZ",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85249",
+      "latitude": 33.3062031,
+      "longitude": -111.841185,
+      "geocode_display": "Chandler, Maricopa County, Arizona, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 85249)"
+    },
+    {
+      "label": "Alameda, CA",
+      "city": "Alameda",
+      "state": "CA",
+      "zip": "94501",
+      "latitude": 37.7652076,
+      "longitude": -122.241635,
+      "geocode_display": "Alameda, Alameda County, California, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 94501)"
+    },
+    {
+      "label": "Arvada, CO",
+      "city": "Arvada",
+      "state": "CO",
+      "zip": "80003",
+      "latitude": 39.8005505,
+      "longitude": -105.0811573,
+      "geocode_display": "Arvada, Jefferson County, Colorado, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 80003)"
+    },
+    {
+      "label": "Avon, CT",
+      "city": "Avon",
+      "state": "CT",
+      "zip": "06001",
+      "latitude": 41.8098209,
+      "longitude": -72.8306541,
+      "geocode_display": "Avon, Capitol Planning Region, Connecticut, 06001, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 06001)"
+    },
+    {
+      "label": "Gainesville, FL",
+      "city": "Gainesville",
+      "state": "FL",
+      "zip": "32605",
+      "latitude": 29.6519684,
+      "longitude": -82.3249846,
+      "geocode_display": "Gainesville, Alachua County, Florida, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 32605)"
+    },
+    {
+      "label": "Acworth, GA",
+      "city": "Acworth",
+      "state": "GA",
+      "zip": "30101",
+      "latitude": 34.0659329,
+      "longitude": -84.6768796,
+      "geocode_display": "Acworth, Cobb County, Georgia, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 30101)"
+    },
+    {
+      "label": "Algonquin, IL",
+      "city": "Algonquin",
+      "state": "IL",
+      "zip": "60102",
+      "latitude": 42.1655801,
+      "longitude": -88.2942493,
+      "geocode_display": "Algonquin, McHenry County, Illinois, 60102, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 60102)"
+    },
+    {
+      "label": "Akron, OH",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "latitude": 41.083064,
+      "longitude": -81.518485,
+      "geocode_display": "Akron, Summit County, Ohio, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 44313)"
+    },
+    {
+      "label": "Allen, TX",
+      "city": "Allen",
+      "state": "TX",
+      "zip": "75013",
+      "latitude": 33.1031744,
+      "longitude": -96.6705503,
+      "geocode_display": "Allen, Collin County, Texas, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 75013)"
+    },
+    {
+      "label": "Alexandria, VA",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22315",
+      "latitude": 38.8051095,
+      "longitude": -77.0470229,
+      "geocode_display": "Alexandria, Virginia, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 22315)"
+    },
+    {
+      "label": "Auburn, WA",
+      "city": "Auburn",
+      "state": "WA",
+      "zip": "98092",
+      "latitude": 47.3075369,
+      "longitude": -122.2301808,
+      "geocode_display": "Auburn, King County, Washington, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 98092)"
+    },
+    {
+      "label": "Appleton, WI",
+      "city": "Appleton",
+      "state": "WI",
+      "zip": "54913",
+      "latitude": 44.2613967,
+      "longitude": -88.4069744,
+      "geocode_display": "Appleton, Outagamie County, Wisconsin, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 54913)"
+    },
+    {
+      "label": "Omaha, NE",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68102",
+      "latitude": 41.2587459,
+      "longitude": -95.9383758,
+      "geocode_display": "Omaha, Douglas County, Nebraska, United States",
+      "pin_source": "FDD Exhibit H-1 (current-franchisee list, fdd.txt line data, zip 68102)"
+    }
+  ],
+  "breakdown": {
+    "absolute_cited": 113,
+    "theoretical": 9,
+    "matching": 8,
+    "total": 130
+  },
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "OTF Franchisor, LLC",
+      "type": "absolute",
+      "item": "FDD cover + Item 1, p.1"
+    },
+    "franchisor_entity_type": {
+      "value": "Delaware limited liability company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "franchisor_formed_date": {
+      "value": "2018-12-10",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_address": {
+      "value": "6000 Broken Sound Parkway NW, Suite 200, Boca Raton, FL 33487",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_phone": {
+      "value": "(954) 530-6903",
+      "type": "absolute",
+      "item": "FDD cover, p.1"
+    },
+    "corporate_email": {
+      "value": "info@orangetheory.com",
+      "type": "absolute",
+      "item": "FDD cover, p.1"
+    },
+    "corporate_city": {
+      "value": "Boca Raton",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_state": {
+      "value": "FL",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_zip": {
+      "value": "33487",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "dba_name": {
+      "value": "Orangetheory Fitness",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 trade/service marks ORANGETHEORY, OT FIT, OTF"
+    },
+    "trademarks": {
+      "value": "ORANGETHEORY, OT FIT, OTF and related marks listed in Item 13",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "parent_chain": {
+      "value": "OTF Franchisor, LLC -> SEB Systems LLC -> SEB Funding LLC -> SEB SPV Guarantor LLC -> Anytime Fitness, LLC -> Self Esteem Brands, LLC -> Purpose Brands Intermediate, LLC -> Purpose Brands Holdings, LLC (Parent, jointly owned by Anytime Worldwide, LLC and Ultimate Fitness Holdings, LLC); indirect wholly-owned subsidiary of Purpose Brands Holdings, LLC since 2024-04-02",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "predecessor_ufr": {
+      "value": "Ultimate Fitness Group, LLC (Delaware) \u2014 offered/sold Studio franchises July 2010 to March 2019; manager/sub-manager under management agreement; OTF Royalties, LLC merged into OTF Franchisor, LLC on 2019-12-31",
+      "type": "absolute",
+      "item": "FDD Item 1, pp.1-2"
+    },
+    "affiliate_sourcing": {
+      "value": "OTF Product Sourcing, LLC \u2014 approved supplier for fitness equipment, OTbeat heart rate monitoring system, OT Connect tablets/displays, retail merchandise",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "affiliate_studios": {
+      "value": "OTF Studios, LLC and OTF Property Holdings, LLC own/operate 15 Affiliate-Owned Studios as of 12/31/2025",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2 + Item 20, p.66"
+    },
+    "affiliate_fitness_brands": {
+      "value": "Anytime Fitness Franchisor, LLC (2,271 franchised + 11 company locations as of 12/31/2025) and other franchise programs became affiliates 2024-04-02 via the Purpose Brands transaction",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "franchisor_formed_year": {
+      "value": 2018,
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "brand_origin_year": {
+      "value": 2010,
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 predecessor UFG began offering Studio franchises July 2010"
+    },
+    "year_franchising_began": {
+      "value": 2019,
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 began offering unit franchises March 2019; area development franchises April 2025"
+    },
+    "business_description": {
+      "value": "Health and fitness studios offering members access to cardio and strength equipment in a simple, contemporary atmosphere with the signature orange color scheme and trade dress, under the ORANGETHEORY trademarks (a 'Studio')",
+      "type": "absolute",
+      "item": "FDD cover, p.1"
+    },
+    "operates_studios_directly": {
+      "value": "No \u2014 franchisor does not operate any Studios; affiliates operate 15 Affiliate-Owned Studios",
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "fdd_issue_date": {
+      "value": "2026-03-31",
+      "type": "absolute",
+      "item": "FDD cover page, p.1"
+    },
+    "ceo_name": {
+      "value": "Thomas Leverton",
+      "type": "absolute",
+      "item": "FDD Item 2, p.6 \u2014 CEO of parent companies Purpose Brands Holdings, LLC and Purpose Brands Intermediate, LLC since November 2024"
+    },
+    "manager_founder": {
+      "value": "David Long \u2014 co-founder of the ORANGETHEORY concept; Manager since March 2019",
+      "type": "absolute",
+      "item": "FDD Item 2, p.6"
+    },
+    "brand_president": {
+      "value": "Lauren Cody \u2014 Brand President since January 2025",
+      "type": "absolute",
+      "item": "FDD Item 2, p.6"
+    },
+    "litigation_disclosed_count": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 3, p.8"
+    },
+    "litigation_1": {
+      "value": "Rpash, Inc., David Regelean, and Tammie Regelean v. Ultimate Fitness Group, LLC and Dan Adelstein, Case No. 01-16-0000-3280 (American Arbitration Association, filed January 28, 2016) \u2014 franchisee claimants alleged they accepted a Mesquite, Texas location based on alleged representations by UFG about territory demographics",
+      "type": "absolute",
+      "item": "FDD Item 3, p.8"
+    },
+    "bankruptcy_disclosed": {
+      "value": "Thomas Leverton (CEO of parent companies) was CEO of CEC Entertainment, Inc. (Chuck E. Cheese parent) July 2014 to February 2020; CEC and debtor affiliates filed Chapter 11 on or about June 24, 2020 (Case No. 20-33163, S.D. Tex.), approximately 4 months after he left; plan confirmed December 15, 2020; discharge December 30, 2020",
+      "type": "absolute",
+      "item": "FDD Item 4, p.9"
+    },
+    "initial_franchise_fee": {
+      "value": 59950,
+      "type": "absolute",
+      "item": "FDD Item 5, p.9"
+    },
+    "franchise_fee_refundable": {
+      "value": "No \u2014 not refundable; franchisor may decrease it case-by-case or via marketing promotion or area development pricing",
+      "type": "absolute",
+      "item": "FDD Item 5, pp.9-10"
+    },
+    "area_development_fee_3": {
+      "value": 150000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.9 \u2014 new franchisee, 3 Studios"
+    },
+    "area_development_fee_5": {
+      "value": 237500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.9 \u2014 new franchisee, 5 Studios"
+    },
+    "technology_setup_fee": {
+      "value": 575,
+      "type": "absolute",
+      "item": "FDD Item 5, p.10 \u2014 initial non-refundable Management Software account setup"
+    },
+    "technology_monthly_fee": {
+      "value": 899,
+      "type": "absolute",
+      "item": "FDD Item 5, p.10 \u2014 currently $899/month, subject to annual increase of 10% compounded"
+    },
+    "equipment_otbeat_range": {
+      "value": "114323 to 158624 \u2014 fitness equipment, OTbeat heart rate monitoring system, OT Connect tablets/displays for a 1,750 to 4,800 sq ft Studio",
+      "type": "absolute",
+      "item": "FDD Item 5, p.10"
+    },
+    "retail_merchandise_initial": {
+      "value": "3315 to 5850 \u2014 initial inventory of ORANGETHEORY retail merchandise",
+      "type": "absolute",
+      "item": "FDD Item 5, p.10"
+    },
+    "studio_launch_training_fee": {
+      "value": "No cost if provided by an area representative; up to 5000 for franchisor employee travel/lodging; 1000 per additional trainee per session beyond 8 fitness coaches + 4 sales associates",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "presales_launch_training_fee": {
+      "value": 2500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11 \u2014 if provided by franchisor; no cost if provided by an area representative"
+    },
+    "amount_to_franchisor_range": {
+      "value": "182658 to 237994 \u2014 total investment that must be paid to the franchisor or an affiliate",
+      "type": "absolute",
+      "item": "FDD cover, p.1"
+    },
+    "royalty_terms": {
+      "value": "8% of Gross Sales, payable weekly; franchisor debits franchisee bank account",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "brand_fund_fee": {
+      "value": "Currently 3% of Gross Sales, payable monthly; may be increased up to 5% of Gross Sales",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "local_advertising_minimum": {
+      "value": "Greater of 2% of the Studio's Gross Sales from the prior month or $2,500 per month; deficiency may be required to be contributed to the Brand Fund",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "ad_coop": {
+      "value": "Cooperative advertising as determined by the Co-op if formed; no minimum or maximum contribution; counts toward local advertising spend",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "successor_franchise_fee": {
+      "value": "50% of the then-current initial franchise fee for new franchisees",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "transfer_fee_control": {
+      "value": "50% of then-current initial franchise fee for a Control Transfer",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "transfer_fee_other": {
+      "value": "25% of then-current initial franchise fee for other transfers (other than to an entity formed to operate the Studio)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "late_fee_interest": {
+      "value": "Lesser of 18% per annum or the highest rate permitted by law, plus $100 per week (or portion) that payment or report is overdue",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "conference_fees": {
+      "value": "600 to 1500 per person per event; Convention expected less than $1,000 per person in 2025; training summit expected less than $600 per person in 2025",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "investment_min": {
+      "value": 764577,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 \u2014 total excluding real estate purchase costs"
+    },
+    "investment_max": {
+      "value": 1104920,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 \u2014 total excluding real estate purchase costs"
+    },
+    "rent_3mo_security_low": {
+      "value": 21492,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "rent_3mo_security_high": {
+      "value": 57312,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "leasehold_construction_low": {
+      "value": 245000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "leasehold_construction_high": {
+      "value": 418317,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "fitness_equipment_low": {
+      "value": 119122,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 \u2014 including installation and OTbeat System"
+    },
+    "fitness_equipment_high": {
+      "value": 163424,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 \u2014 including installation and OTbeat System"
+    },
+    "technology_system_low": {
+      "value": 46760,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "technology_system_high": {
+      "value": 62108,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "presale_advertising_low": {
+      "value": 36000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "presale_advertising_high": {
+      "value": 45000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "additional_funds_3mo": {
+      "value": 171239,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 \u2014 3 months after Studio opens"
+    },
+    "typical_sqft": {
+      "value": "3,100 (range 1,750 to 4,800)",
+      "type": "absolute",
+      "item": "FDD Item 7 note 2, p.17"
+    },
+    "required_purchases": {
+      "value": "Must purchase from affiliate OTF Sourcing: fitness equipment, OTbeat heart rate monitoring system and initial monitor/strap inventory, OT Connect tablets/displays, initial retail merchandise inventory; IT services/equipment from PV Distribution LLC (ProVision)",
+      "type": "absolute",
+      "item": "FDD Items 1, 5, 8, pp.2/10/20"
+    },
+    "financing_offered": {
+      "value": "No direct or indirect financing and no guarantees; arrangements exist with third-party equipment lenders \u2014 franchisor does not participate in underwriting or lending decisions",
+      "type": "absolute",
+      "item": "FDD Item 10, p.25"
+    },
+    "initial_training_duration": {
+      "value": "Four days \u2014 Initial Training Program, held quarterly at HQ in Boca Raton, Florida with some portions online via Orange University; up to three trainees at no charge",
+      "type": "absolute",
+      "item": "FDD Item 11, p.33 (printed)"
+    },
+    "studio_launch_training": {
+      "value": "Studio Launch Training for up to eight fitness coaches and four sales associates (sales/operations and fitness programs)",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "ongoing_brand_fund": {
+      "value": "Brand Fund contributions (currently 3% of Gross Sales) fund advertising, marketing, operations support, and the technology platform",
+      "type": "absolute",
+      "item": "FDD Items 6, 11, pp.12/25"
+    },
+    "territory_exclusive": {
+      "value": "No \u2014 'You will not receive an exclusive territory under either the Area Development Agreement or the Franchise Agreement.' The Franchise Agreement designates a 'Territory' (protected): as long as you are in compliance, the franchisor and affiliates will not operate or authorize Studios identified by the Marks with premises inside your Territory, except Limited Access Locations (hotels, hospitals, universities, military bases, offices, condos/dorms, private clubs, etc.)",
+      "type": "absolute",
+      "item": "FDD Item 12, pp.43-44"
+    },
+    "territory_size": {
+      "value": "No minimum geographic or population size specified; determined by population, traffic flow, businesses, competitors, demographics; defined by boundaries/streets and inserted with a map in Schedule 1 to Appendix A",
+      "type": "absolute",
+      "item": "FDD Item 12, p.44"
+    },
+    "minimum_performance_standards": {
+      "value": "Year 1: $300,000 gross sales; Year 2: $350,000; Year 3+: $400,000 (non-cumulative). Shortfall in a year: pay the difference between Royalties actually paid and Royalties that would have been paid at the standard, plus an approved business plan. Two consecutive years missed: franchisor may reduce/eliminate Territory, terminate, or exercise other remedies",
+      "type": "absolute",
+      "item": "FDD Item 12, p.44"
+    },
+    "franchisor_reserved_rights": {
+      "value": "Franchisor/affiliates reserve: operate/license studios under the Marks outside the Territory or under other names anywhere (incl. inside the Territory); develop other concepts anywhere; acquire/merge with other businesses anywhere and convert them to the ORANGETHEORY brand even inside the Territory",
+      "type": "absolute",
+      "item": "FDD Item 12, p.44"
+    },
+    "territory_relocation": {
+      "value": "Studio must operate only at the accepted location; no relocation without prior written consent and conditions",
+      "type": "absolute",
+      "item": "FDD Item 12, p.43"
+    },
+    "site_selection_deadline": {
+      "value": "Must select and secure an accepted site within the non-exclusive Site Selection Area within four months of the Franchise Agreement effective date",
+      "type": "absolute",
+      "item": "FDD Item 12, p.43"
+    },
+    "trademark_rights": {
+      "value": "Right to operate under the Marks (ORANGETHEORY, OT FIT, OTF and related) per the franchise agreement",
+      "type": "absolute",
+      "item": "FDD Item 13, p.47"
+    },
+    "owner_operator_required": {
+      "value": "Not required \u2014 personal supervision by you or your Principal Owner is recommended, not required; must designate a full-time on-premises manager who has completed management training",
+      "type": "absolute",
+      "item": "FDD Item 15, p.50"
+    },
+    "sell_restrictions": {
+      "value": "Must offer the products/services the franchisor specifies for the Studio; system standards govern",
+      "type": "absolute",
+      "item": "FDD Item 16, p.51"
+    },
+    "franchise_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.53 \u2014 10 years from the effective date (parties may mutually agree up to 11 years to align with lease term)"
+    },
+    "renewal_terms": {
+      "value": "Successor franchise available: sign the then-current franchise agreement and meet its terms; successor franchise fee = 50% of then-current initial franchise fee",
+      "type": "absolute",
+      "item": "FDD Items 6, 17, pp.12/53"
+    },
+    "dispute_resolution": {
+      "value": "Arbitration \u2014 American Arbitration Association; proceedings held exclusively in the county specified (franchise agreement Section 21(a))",
+      "type": "absolute",
+      "item": "FDD Item 17, p.56"
+    },
+    "public_figures": {
+      "value": "None \u2014 franchisor does not use any public figures to promote the franchise",
+      "type": "absolute",
+      "item": "FDD Item 18, p.57"
+    },
+    "item19_measurement_period": {
+      "value": "12-month period ended February 28, 2026",
+      "type": "absolute",
+      "item": "FDD Item 19, p.57"
+    },
+    "item19_system_studios": {
+      "value": 1201,
+      "type": "absolute",
+      "item": "FDD Item 19, p.57 \u2014 franchised Studios in the system as of 2/28/2026 (excludes 95 permanently closed during the Relevant Time Period; all closed studios were open at least 12 months before closing)"
+    },
+    "item19_reporting_studios": {
+      "value": 1189,
+      "type": "absolute",
+      "item": "FDD Item 19, p.57 \u2014 franchised Studios open and operating for the Relevant Time Period (includes 2 temporarily closed in 2025 due to storm damage)"
+    },
+    "item19_avg_gross_sales": {
+      "value": 802145,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_median_gross_sales": {
+      "value": 750643,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_high_gross_sales": {
+      "value": 2870191,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_low_gross_sales": {
+      "value": 156118,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_pct_met_avg_sales": {
+      "value": "518 of 1,189 (approx. 44%) met or exceeded the average Total Gross Sales",
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_top_quartile_avg": {
+      "value": 1205826,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_4th_quartile_avg": {
+      "value": 475979,
+      "type": "absolute",
+      "item": "FDD Item 19, p.58"
+    },
+    "item19_avg_member_count": {
+      "value": 444,
+      "type": "absolute",
+      "item": "FDD Item 19, p.59 \u2014 average monthly member count"
+    },
+    "item19_median_member_count": {
+      "value": 425,
+      "type": "absolute",
+      "item": "FDD Item 19, p.59"
+    },
+    "item19_high_member_count": {
+      "value": 1390,
+      "type": "absolute",
+      "item": "FDD Item 19, p.59"
+    },
+    "item19_low_member_count": {
+      "value": 105,
+      "type": "absolute",
+      "item": "FDD Item 19, p.59"
+    },
+    "item19_pct_at_avg_members": {
+      "value": "526 of 1,189 (approx. 44%) at or above average monthly member count",
+      "type": "absolute",
+      "item": "FDD Item 19, p.59"
+    },
+    "item19_profit_data": {
+      "value": "Item 19 does NOT include cost of sales, operating expenses, net income, or profit \u2014 gross sales and member counts only; the FDD states the information does not reflect costs that must be deducted to calculate net income",
+      "type": "absolute",
+      "item": "FDD Item 19, p.59"
+    },
+    "item20_total_2025": {
+      "value": 1224,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60 \u2014 Table No. 1: 1,209 franchised + 15 affiliate-owned as of 12/31/2025"
+    },
+    "item20_franchised_2025": {
+      "value": 1209,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_affiliate_owned_2025": {
+      "value": 15,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_total_2023_end": {
+      "value": 1333,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_total_2024_end": {
+      "value": 1298,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_net_change_2025": {
+      "value": -74,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60 \u2014 total studios 1,298 -> 1,224"
+    },
+    "item20_net_change_2024": {
+      "value": -35,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_net_change_2023": {
+      "value": 31,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60"
+    },
+    "item20_franchised_change_2025": {
+      "value": -74,
+      "type": "absolute",
+      "item": "FDD Item 20, p.60 \u2014 franchised 1,283 -> 1,209"
+    },
+    "item20_projected_2026": {
+      "value": 85,
+      "type": "absolute",
+      "item": "FDD Item 20, p.66 \u2014 85 franchise agreements signed but studios not open; 15 projected new franchised studios in fiscal 2026"
+    },
+    "item20_left_system_list": {
+      "value": 362,
+      "type": "absolute",
+      "item": "FDD Item 20, p.67 \u2014 362 franchisees on the Exhibit H-2 left-the-system list"
+    },
+    "item20_schedule_entries_parsed": {
+      "value": 1010,
+      "type": "absolute",
+      "item": "FDD Exhibit H-1 (List of Current Franchisees) \u2014 unique city/state rows parsed from the studio list (some multi-line rows not captured)"
+    },
+    "financial_statements": {
+      "value": "Audited financial statements of affiliate SEB Franchising attached at Exhibit D",
+      "type": "absolute",
+      "item": "FDD Item 21, p.68"
+    },
+    "netWorthRequirement": {
+      "value": "not disclosed in FDD",
+      "type": "absolute",
+      "item": "FDD \u2014 grep over source FDD text for 'net worth' returns 1 hit (Exhibit D note about the Company's own franchise capital accounts/liquidity requirements); no minimum net worth is required of franchisees anywhere in the FDD"
+    },
+    "netWorthRequirementNote": {
+      "value": "The single 'net worth' hit describes the franchisor-side capital account for franchisor liquidity/net-worth requirements, not a franchisee requirement; grep for 'minimum net worth' / 'net worth of $' / 'net worth of at least' = 0 hits",
+      "type": "absolute",
+      "item": "grep proof over fdd.txt"
+    },
+    "liquidCapitalRequirement": {
+      "value": "not disclosed in FDD",
+      "type": "absolute",
+      "item": "FDD \u2014 grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated anywhere in the FDD"
+    },
+    "liquidCapitalRequirementNote": {
+      "value": "No liquid-capital requirement appears anywhere in the disclosure document",
+      "type": "absolute",
+      "item": "grep proof: 'liquid capital'/'liquid assets' x0 hits"
+    },
+    "risk_score": {
+      "value": 60,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: base 20 +8 system contraction (1,333 total studios at end-2023 -> 1,224 at end-2025; franchised 1,311 -> 1,209, net -102) +8 high closure/exit volume (95 permanent closures in Item 19 period; 362 franchisees on the H-2 left-the-system list) +10 capital intensity (investment ceiling $1,104,920) +8 ongoing fee burden (royalty 8% + brand fund 3% rising to 5% + local ad minimum 2% or $2,500/mo = 13-15% of gross sales) +2 technology fee $899/mo with 10% compounded annual increases +6 non-exclusive territory with franchisor reserved rights (other-name studios inside Territory, acquired-business conversion) +5 minimum performance standards ($300K/$350K/$400K with royalty true-up; two consecutive misses can trigger territory reduction or termination) +4 disclosed litigation (1 franchisee AAA matter, Item 3) +2 Item 4 bankruptcy history (parent CEO's prior company CEC Chapter 11 in 2020) -8 Item 19 strength (1,189 studios, avg gross sales $802,145, 44% met/exceeded average, avg 444 members) -2 audited financials attached (Exhibit D) -3 Purpose Brands/SEB parent platform backing = 60/100"
+    },
+    "fee_burden_ratio_pct": {
+      "value": 7.8,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: initial franchise fee $59,950 / Item 7 minimum investment $764,577 = 7.84%"
+    },
+    "ongoing_fee_burden_pct": {
+      "value": 13,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: royalty 8% + brand fund 3% (risable to 5%) + local advertising minimum 2% = 13% of gross sales (15% if brand fund raised to 5%)"
+    },
+    "payback_period_years": {
+      "value": "not computable from FDD \u2014 Item 19 reports gross sales only, no profit figures",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: Item 19 contains no net income or profit data; any payback estimate would be invented"
+    },
+    "unit_change_2023_2025_pct": {
+      "value": -8.2,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: (1,224 - 1,333) / 1,333 = -8.18% total studios from end-2023 to end-2025 (Item 20 Table No. 1)"
+    },
+    "support_score_estimate": {
+      "value": 6,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: scale 1-10: quarterly 4-day initial training at HQ, studio launch + presales training, Brand Fund marketing, management agreement support via UFG/AFLLC; capped by non-exclusive territory, no financing, and mandatory performance standards; labeled estimate"
+    },
+    "litigation_risk_flag": {
+      "value": "LOW-MODERATE",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: 1 disclosed 2016 franchisee AAA arbitration matter; no current franchisee-vs-franchisor litigation disclosed"
+    },
+    "item19_confidence": {
+      "value": "STRONG",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: n=1,189 franchised studios open the full 12-month period ended 2/28/2026, reporting average/median/high/low for total gross sales and monthly member counts; no profit data disclosed"
+    },
+    "saturation_index": {
+      "value": "elevated exits",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: system contracting (-8.2% since 2023), 95 permanent closures in the Item 19 period, 362 franchisees left the system in FY2025; protected territories with franchisor-reserved conversion rights; labeled estimate"
+    },
+    "match_capital_min": {
+      "value": 764577,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 low-end investment"
+    },
+    "match_capital_target": {
+      "value": 934748,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: midpoint of Item 7 range ($764,577-$1,104,920), labeled midpoint"
+    },
+    "match_experience": {
+      "value": "No prior fitness experience required; owner supervision recommended not required; full-time trained on-premises manager required",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 15, p.50"
+    },
+    "match_operational": {
+      "value": "Semi-absentee-capable: owner need not personally supervise; a full-time trained on-premises manager must run the Studio",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 15, p.50"
+    },
+    "match_lifestyle": {
+      "value": "Manager-run model possible \u2014 owner personal supervision recommended, not required",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 15, p.50"
+    },
+    "match_risk_appetite": {
+      "value": "Moderate-high: 13-15% ongoing fee burden, $765K+ capital, system contracting, minimum performance standards with royalty true-up",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: risk inputs: Items 3, 6, 7, 12, 20"
+    },
+    "match_location": {
+      "value": "US, typically 3,100 sq ft (1,750-4,800); site selected and secured within 4 months of signing, franchisor acceptance required",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 note 2 + Item 12"
+    },
+    "match_timeline": {
+      "value": "Site selected and secured within 4 months of the Franchise Agreement effective date",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 12, p.43"
+    }
+  },
+  "extractor": "orangetheory-build (MapKI next-20 wave, wave 2, 2026-09-14)",
+  "extraction_timestamp_utc": "2026-09-14T17:39:53.822535+00:00",
+  "fdd_filename": "orangetheory.pdf",
+  "fdd_sha256": "205404c271f7065e59a74a6daeac19b73e5a18d89f2ec60b98f6f493310a95cf",
+  "live_url": "https://bennett-maxwell.github.io/orangetheory/",
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "grep over source FDD text for 'net worth' returns 1 hit (Exhibit D note about the Company's own franchise capital accounts), 'minimum net worth' / 'net worth of $' = 0 hits; no franchisee minimum net worth is stated in the FDD",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated in the FDD",
+  "pinVerification": {
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+    "run_utc": "2026-09-15T02:01:48.352867+00:00",
+    "pins_total": 15,
+    "pins_verified": 15,
+    "pins_mismatch": 0,
+    "pins_unverifiable": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Boca Raton",
+        "state": "FL",
+        "stored": [
+          26.3586885,
+          -80.0830984
+        ],
+        "geocoded": [
+          26.358688,
+          -80.083098
+        ],
+        "geocode_query": "Boca Raton, Florida, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Auburn",
+        "state": "AL",
+        "stored": [
+          32.6098566,
+          -85.4807825
+        ],
+        "geocoded": [
+          32.609857,
+          -85.480783
+        ],
+        "geocode_query": "Auburn, Alabama, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Chandler",
+        "state": "AZ",
+        "stored": [
+          33.3062031,
+          -111.841185
+        ],
+        "geocoded": [
+          33.306203,
+          -111.841185
+        ],
+        "geocode_query": "Chandler, Arizona, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Alameda",
+        "state": "CA",
+        "stored": [
+          37.7652076,
+          -122.241635
+        ],
+        "geocoded": [
+          37.609029,
+          -121.899142
+        ],
+        "geocode_query": "Alameda, California, United States",
+        "distance_km": 34.78,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Arvada",
+        "state": "CO",
+        "stored": [
+          39.8005505,
+          -105.0811573
+        ],
+        "geocoded": [
+          39.80055,
+          -105.081157
+        ],
+        "geocode_query": "Arvada, Colorado, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Avon",
+        "state": "CT",
+        "stored": [
+          41.8098209,
+          -72.8306541
+        ],
+        "geocoded": [
+          41.809821,
+          -72.830654
+        ],
+        "geocode_query": "Avon, Connecticut, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Gainesville",
+        "state": "FL",
+        "stored": [
+          29.6519684,
+          -82.3249846
+        ],
+        "geocoded": [
+          29.651968,
+          -82.324985
+        ],
+        "geocode_query": "Gainesville, Florida, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Acworth",
+        "state": "GA",
+        "stored": [
+          34.0659329,
+          -84.6768796
+        ],
+        "geocoded": [
+          34.065933,
+          -84.67688
+        ],
+        "geocode_query": "Acworth, Georgia, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "Algonquin",
+        "state": "IL",
+        "stored": [
+          42.1655801,
+          -88.2942493
+        ],
+        "geocoded": [
+          42.16558,
+          -88.294249
+        ],
+        "geocode_query": "Algonquin, Illinois, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Akron",
+        "state": "OH",
+        "stored": [
+          41.083064,
+          -81.518485
+        ],
+        "geocoded": [
+          41.083064,
+          -81.518485
+        ],
+        "geocode_query": "Akron, Ohio, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 10,
+        "city": "Allen",
+        "state": "TX",
+        "stored": [
+          33.1031744,
+          -96.6705503
+        ],
+        "geocoded": [
+          33.103174,
+          -96.67055
+        ],
+        "geocode_query": "Allen, Texas, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 11,
+        "city": "Alexandria",
+        "state": "VA",
+        "stored": [
+          38.8051095,
+          -77.0470229
+        ],
+        "geocoded": [
+          38.80511,
+          -77.047023
+        ],
+        "geocode_query": "Alexandria, Virginia, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 12,
+        "city": "Auburn",
+        "state": "WA",
+        "stored": [
+          47.3075369,
+          -122.2301808
+        ],
+        "geocoded": [
+          47.307537,
+          -122.230181
+        ],
+        "geocode_query": "Auburn, Washington, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 13,
+        "city": "Appleton",
+        "state": "WI",
+        "stored": [
+          44.2613967,
+          -88.4069744
+        ],
+        "geocoded": [
+          44.261397,
+          -88.406974
+        ],
+        "geocode_query": "Appleton, Wisconsin, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 14,
+        "city": "Omaha",
+        "state": "NE",
+        "stored": [
+          41.2587459,
+          -95.9383758
+        ],
+        "geocoded": [
+          41.258746,
+          -95.938376
+        ],
+        "geocode_query": "Omaha, Nebraska, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-15T02:01:48.352867+00:00",
+  "risk_method": "base 20 + system_contraction 8 + closure_exit_volume 8 + capital_intensity 10 + ongoing_fee_burden 8 + technology_fee_escalation 2 + non_exclusive_territory 6 + minimum_performance_standards 5 + disclosed_litigation 4 + item4_bankruptcy_history 2 - item19_strength 8 - audited_financials 2 - purpose_brands_backing 3 = 60",
+  "risk_components": [
+    {
+      "name": "system_contraction",
+      "weight": 8,
+      "note": "FDD Item 20"
+    },
+    {
+      "name": "closure_exit_volume",
+      "weight": 8,
+      "note": "FDD Item 20"
+    },
+    {
+      "name": "capital_intensity",
+      "weight": 10,
+      "note": "FDD Item 7"
+    },
+    {
+      "name": "ongoing_fee_burden",
+      "weight": 8,
+      "note": "FDD Item 6"
+    },
+    {
+      "name": "technology_fee_escalation",
+      "weight": 2,
+      "note": "FDD Item 6"
+    },
+    {
+      "name": "non_exclusive_territory",
+      "weight": 6,
+      "note": "non-exclusive territory with reserved conversion rights (FDD Item 12)"
+    },
+    {
+      "name": "minimum_performance_standards",
+      "weight": 5,
+      "note": "FDD Item 16"
+    },
+    {
+      "name": "disclosed_litigation",
+      "weight": 4,
+      "note": "FDD Item 3"
+    },
+    {
+      "name": "item4_bankruptcy_history",
+      "weight": 2,
+      "note": "FDD Item 4"
+    },
+    {
+      "name": "item19_strength",
+      "weight": -8,
+      "note": "FDD Item 19"
+    },
+    {
+      "name": "audited_financials",
+      "weight": -2,
+      "note": "FDD Item 21"
+    },
+    {
+      "name": "purpose_brands_backing",
+      "weight": -3,
+      "note": "Purpose Brands backing (FDD Item 1)"
+    }
+  ],
+  "risk_source": "page Method text",
+  "logoUrl": "https://cdn.prod.website-files.com/6629184900a2ef9802de6081/676d59040cc94d29226689cf_nb-logo.svg",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }
